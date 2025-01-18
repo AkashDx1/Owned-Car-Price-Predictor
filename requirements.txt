@@ -1,8 +1,6 @@
+streamlit
 pandas
 numpy
-streamlit
-scikit-learn
-PyPDF2
-wordcloud
-nltk
+seaborn
 matplotlib
+sklearn.linear_model
